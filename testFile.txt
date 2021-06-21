@@ -1,3 +1,0 @@
-I am writing some code.
-
-This code should only be in the new branch.
